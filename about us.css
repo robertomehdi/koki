@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    background-color: #ffe8a3;;
+}
+#br{
+background-image:url(./image.png);
+height: 300px;;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+}
+#bo{
+    display: flex;
+    justify-content: center;
+    background-color: #fdd89e;
+    
+}
+#img{
+    max-width:150px;
+    float: right;
+
+}
+
+
