@@ -10,6 +10,7 @@ img{
 div{
     object-fit: cover;
     
+    
 }
 #gallery-1{
     grid-column: 1/3;
